@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anthonymlloyd.com" resolutions="1x" timestamp="1559769212423">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anthonymlloyd.com" resolutions="1x" timestamp="1559769570737">
   <folder name="css">
     <file name="site_global.css" crc="4233502435"/>
-    <file name="master_a-master.css" crc="3937230258" ref="ace:wattson:texture---model:golf_flag:wrestlingring:crank:game:video:clipboard:about:waiting_room:solar_shephard---game_logo:index:bonesaw:park_stuff:paramedics---game_controls:logo---design:butch"/>
+    <file name="master_a-master.css" crc="3899188790" ref="ace:wattson:texture---model:golf_flag:wrestlingring:crank:game:video:clipboard:about:waiting_room:solar_shephard---game_logo:index:bonesaw:park_stuff:paramedics---game_controls:logo---design:butch"/>
     <file name="nomq_preview_master_a-master.css" crc="3893996784" ref="ace:wattson:texture---model:golf_flag:wrestlingring:crank:game:video:clipboard:about:waiting_room:solar_shephard---game_logo:index:bonesaw:park_stuff:paramedics---game_controls:logo---design:butch"/>
     <file name="ace.css" crc="3849040420" ref="ace"/>
     <file name="nomq_ace.css" crc="3880847211" ref="ace"/>
@@ -21,8 +21,8 @@
     <file name="nomq_video.css" crc="3896679039" ref="video"/>
     <file name="clipboard.css" crc="239949480" ref="clipboard"/>
     <file name="nomq_clipboard.css" crc="4141803825" ref="clipboard"/>
-    <file name="about.css" crc="3810193208" ref="about"/>
-    <file name="nomq_about.css" crc="296663230" ref="about"/>
+    <file name="about.css" crc="254517198" ref="about"/>
+    <file name="nomq_about.css" crc="219282334" ref="about"/>
     <file name="waiting_room.css" crc="4126991359" ref="waiting_room"/>
     <file name="nomq_waiting_room.css" crc="129721283" ref="waiting_room"/>
     <file name="solar_shephard---game_logo.css" crc="3885412488" ref="solar_shephard---game_logo"/>
@@ -2096,247 +2096,247 @@
       <caption webpage="solar_shephard---game_logo" alt=""/>
     </file>
     <file name="artstationfabloshrunkr.svg" crc="4097174076" seo="true" ref="index:ace:texture---model:logo---design:about:butch:game:crank:wattson:bonesaw:clipboard:golf_flag:park_stuff:waiting_room:wrestlingring:paramedics---game_controls:solar_shephard---game_logo:video">
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
     </file>
     <file name="artstationfabloshrunkr_poster_.png" crc="4060210257" ref="index:about"/>
     <file name="resumefablothr.svg" crc="3852862757" seo="true" ref="index:ace:texture---model:logo---design:about:butch:game:crank:wattson:bonesaw:clipboard:golf_flag:park_stuff:waiting_room:wrestlingring:paramedics---game_controls:solar_shephard---game_logo:video">
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
     </file>
     <file name="resumefablothr_poster_.png" crc="4141576679" ref="index:about"/>
     <file name="sketchfablo3shrunkr.svg" crc="48851135" seo="true" ref="index:ace:texture---model:logo---design:about:butch:game:crank:wattson:bonesaw:clipboard:golf_flag:park_stuff:waiting_room:wrestlingring:paramedics---game_controls:solar_shephard---game_logo:video">
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
     </file>
     <file name="sketchfablo3shrunkr_poster_.png" crc="294463838" ref="index:about"/>
     <file name="mailfabloshrunkr.svg" crc="67939336" seo="true" ref="index:ace:texture---model:logo---design:about:butch:game:crank:wattson:bonesaw:clipboard:golf_flag:park_stuff:waiting_room:wrestlingring:paramedics---game_controls:solar_shephard---game_logo:video">
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="wrestlingring" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
-      <caption webpage="game" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
       <caption webpage="paramedics---game_controls" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
-      <caption webpage="texture---model" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
+      <caption webpage="game" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
       <caption webpage="park_stuff" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="ace" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
-      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
       <caption webpage="golf_flag" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="wattson" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="waiting_room" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="bonesaw" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="texture---model" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="logo---design" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="wrestlingring" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="ace" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="crank" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="butch" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
       <caption webpage="clipboard" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="logo---design" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="wattson" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
-      <caption webpage="bonesaw" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
       <caption webpage="solar_shephard---game_logo" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
-      <caption webpage="crank" alt=""/>
     </file>
     <file name="mailfabloshrunkr_poster_.png" crc="3900797768" ref="index:about"/>
     <file name="accordinlina.svg" crc="4240825077" ref="index:about"/>
@@ -2352,7 +2352,7 @@
   <file name="ace.html" crc="3826230832" seo="true" mt="1559603560241" redirect="true"/>
   <file name="texture---model.html" crc="118227748" seo="true" mt="1559570433552" redirect="true"/>
   <file name="logo---design.html" crc="98403188" seo="true" mt="1559570583325" redirect="true"/>
-  <file name="about.html" crc="4258978728" seo="true" mt="1559767804210" redirect="true"/>
+  <file name="about.html" crc="288884744" seo="true" mt="1559769532462" redirect="true"/>
   <file name="butch.html" crc="4164290553" seo="true" mt="1559603442523" redirect="true"/>
   <file name="game.html" crc="4271617410" seo="true" mt="1559571356463" redirect="true"/>
   <file name="crank.html" crc="448981273" seo="true" mt="1559604684998" redirect="true"/>
